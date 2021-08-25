@@ -4,7 +4,7 @@ http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/ind
 #EXTINF:-1,Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 
-#EXTINF:-1,24 News
+#EXTINF:-1,Twentyfour News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
 #EXTINF:-1,Amrita TV
@@ -16,7 +16,7 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 #EXTINF:-1,DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 
-#EXTINF:-1,Flowers
+#EXTINF:-1,Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
 #EXTINF:-1,Jaihind TV
@@ -31,7 +31,7 @@ http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 #EXTINF:-1,Kairali TV
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 
-#EXTINF:-1,Kairali We 
+#EXTINF:-1,Kairali We
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 
 #EXTINF:-1,Kaumudy TV
@@ -43,13 +43,13 @@ http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1,Media One
 http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
 
-#EXTINF:-1,Reporter TV
+#EXTINF:-1,Reporter
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 
-#EXTINF:-1,Mazavil Manorama
+#EXTINF:-1,Mazhavil Manorama
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86085.ts
 
-#EXTINF:-1,Asianet TV
+#EXTINF:-1,Asianet
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86059.ts
 
 #EXTINF:-1,Asianet Movies
