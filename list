@@ -49,8 +49,8 @@ http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:-1,Mazhavil Manorama
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86085.ts
 
-#EXTINF:-1,Asianet TV
+#EXTINF:-1,Asianet
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86059.ts
 
-#EXTINF:-1,Asianet Movies
+#EXTINF:-1,Asianet Plus
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86061.ts
