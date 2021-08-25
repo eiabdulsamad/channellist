@@ -1,34 +1,34 @@
-#EXTINF:-  Mathrubhumi News  iptv playlist / link
+#EXTINF:-1  Mathrubhumi News  iptv playlist / link
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
 
-#EXTINF:-  Manorama News iptv playlist / link
+#EXTINF:-1  Manorama News iptv playlist / link
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 
-#EXTINF:-  24 News Malayalam  iptv playlist / link
+#EXTINF:-1  24 News Malayalam  iptv playlist / link
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
-#EXTINF:-  Amrita TV iptv playlist / link
+#EXTINF:-1  Amrita TV iptv playlist / link
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 
-#EXTINF:-  Asianet News iptv playlist / link
+#EXTINF:-1  Asianet News iptv playlist / link
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 
-#EXTINF:-  DD Malayalam iptv playlist / link
+#EXTINF:-1  DD Malayalam iptv playlist / link
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 
-#EXTINF:-  Flowers TV iptv playlist / link
+#EXTINF:-1  Flowers TV iptv playlist / link
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
-#EXTINF:-  Jaihind TV iptv playlist / link
+#EXTINF:-1  Jaihind TV iptv playlist / link
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 
 #EXTINF:-1 ,Jeevan TV 
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 
-#EXTINF:-  Kairali News iptv playlist / link
+#EXTINF:-1  Kairali News iptv playlist / link
 http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 
-#EXTINF:-  Kairali TV iptv playlist / link
+#EXTINF:-1  Kairali TV iptv playlist / link
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 
 #EXTINF:-1 ,Kairali We 
@@ -37,13 +37,13 @@ http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 ,Kaumudy TV
 http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 
-#EXTINF:-  Mangalam TV iptv playlist / link
+#EXTINF:-1  Mangalam TV iptv playlist / link
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
 #EXTINF:-1 ,Media One
 http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
 
-#EXTINF:-  Reporter TV iptv playlist / link (Opt-1) 
+#EXTINF:-1  Reporter TV iptv playlist / link (Opt-1) 
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 
 #EXTINF:-1   group-title="NEXT-TV-LIVE",Maza Manorama
