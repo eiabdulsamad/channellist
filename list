@@ -70,8 +70,14 @@ http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86100.ts
 #EXTINF:-1   group-title="NEXT-TV-LIVE",KOCHU
 https://suntvvodaf-live.s.llnwi.net:443/KochuTV/KochuTV.isml/manifest.mpd
 
+#EXTINF:-1 National Geographic
+http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/87343.ts
+
 #EXTINF:-1,Wild Animal
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/607.ts
+
+#EXTINF:-1, HBO
+http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/88625.ts
 
 #EXTINF:-1,Cartoon1
 http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/41.ts
